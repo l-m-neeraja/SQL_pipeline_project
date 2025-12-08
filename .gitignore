@@ -1,0 +1,5 @@
+# Generated data (must NOT go to GitHub)
+data/
+db/
+venv/
+.ipynb_checkpoints/
